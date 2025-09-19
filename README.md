@@ -7,11 +7,8 @@ This project implements a restaurant recommendation system for Swiggy using Pyth
 The project uses three key data files and pre-trained models:
 
 for_encode&cleaned.csv → Original dataset cleaned for preprocessing.
-
 encoded_data.csv → Dataset with numerical features after one-hot encoding categorical variables.
-
 cleaned_data.csv → Fully cleaned dataset for displaying results.
-
 Encoders (city_encoder.pkl, cuisine_encoder.pkl) and scaler (scaler.pkl) to transform user input.
 
 Features
@@ -39,22 +36,6 @@ Scaling numerical features
 KNN-based similarity recommendation
 
 Data Analytics & Visualization
-
-Project Structure 
-
-Swiggy-Recommendation-System/
-│
-├─ Scripts/
-│   ├─ for_encode&cleaned.csv          # Raw cleaned data
-│   ├─ encoded_data.csv                # Preprocessed numerical dataset
-│   ├─ cleaned_data.csv                # Clean dataset for display
-│   ├─ city_encoder.pkl                # City encoder
-│   ├─ cuisine_encoder.pkl             # Cuisine encoder
-│   └─ scaler.pkl                      # Scaler for rating & cost
-│
-├─ app.py                              # Streamlit application
-└─ README.md
-
 
 How It Works
 
