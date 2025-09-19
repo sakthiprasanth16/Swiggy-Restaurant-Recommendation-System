@@ -57,17 +57,11 @@ Display Results
 Recommendations are mapped to cleaned_data.csv to show human-readable information including:
 
 Restaurant Name
-
 City
-
 Cost
-
 Cuisine
-
 Rating
-
 Rating Count
-
 Address
 
 Business Use Cases
