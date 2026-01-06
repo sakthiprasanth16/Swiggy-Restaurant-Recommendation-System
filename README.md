@@ -1,5 +1,8 @@
 Swiggy Restaurant Recommendation System using Streamlit
+Live demo (Hugging Face Space):  
+👉 https://huggingface.co/spaces/prasanthr0416/Swiggy_Restaurant_Recommendation_System
 
+---
 Overview
 
 This project implements a restaurant recommendation system for Swiggy using Python and Streamlit. It leverages with cosine similarity to suggest restaurants to users based on their preferences, such as city, cuisine, rating, and cost. The system combines data preprocessing, feature encoding, and similarity-based recommendation to provide personalized results.
