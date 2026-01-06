@@ -1,4 +1,5 @@
 Swiggy Restaurant Recommendation System using Streamlit
+---
 Live demo (Hugging Face Space):  
 👉 https://huggingface.co/spaces/prasanthr0416/Swiggy_Restaurant_Recommendation_System
 
